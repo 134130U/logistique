@@ -25,9 +25,9 @@ def get_data():
         record = cursor.fetchone()
         print('You are Successfully connected to - ', record, '\n')
 
-        predictor = pd.read_sql_query(sql_text, connection)
-        age = pd.read_sql_query(sql_text, connection)
-        predictor.to_csv('Data/stock.csv', index=False)
+        kpi_data = pd.read_sql_query(sql_text, connection)
+        age = pd.read_sql_query(sql_text2, connection)
+        kpi_data.to_csv('Data/stock.csv', index=False)
         age.to_csv('Data/age.csv', index=False)
         print('data updated')
     except (Exception, Error) as error:
