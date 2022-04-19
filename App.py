@@ -39,7 +39,7 @@ print(table_value.to_dict('records'))
 table_header_style = {
     "backgroundColor": "rgb(2,21,70)",'minWidth': '0px', 'maxWidth': '100px', 'width': '10px',
     "color": "white",
-    "textAlign": "center",
+    "textAlign": "rigth",
 }
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
@@ -47,6 +47,7 @@ app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = html.Div([
             dcc.Interval(
                             id='interval-component',
+                            disabled=False,
                             interval=1*43200000,
                             n_intervals=0
                         ),
@@ -89,7 +90,7 @@ app.layout = html.Div([
             dbc.Row([
                 dbc.Col([
                     html.Br(),
-                    html.H4(children='Stock KPI ',style={ 'textAlign': 'center','color': 'white'}),
+                    html.H4(children='Stock KPI ',style={ 'textAlign': 'right','color': 'white'}),
                     dt.DataTable(
                         id='valeur',
                         style_header=table_header_style,
@@ -99,7 +100,7 @@ app.layout = html.Div([
                         fixed_rows={'headers': True},
                         style_cell={'minWidth': '0px', 'maxWidth': '100px', 'width': '50px', 'fontSize': 11,
                                     'backgroundColor': '#1f2c56', 'color': 'white',
-                                    'textAlign': 'center', "font-family": "Montserrat"},
+                                    'textAlign': 'right', "font-family": "Montserrat"},
                         export_format="csv", ),
                 ],width={'size': 7, 'offset':0})
             ]),
@@ -125,7 +126,7 @@ app.layout = html.Div([
                         fixed_rows={'headers': True},
                         style_cell={'minWidth': '0px', 'maxWidth': '100px', 'width': '50px', 'fontSize': 11,
                                     'backgroundColor': '#1f2c56', 'color': 'white',
-                                    'textAlign': 'center', "font-family": "Montserrat"},
+                                    'textAlign': 'right', "font-family": "Montserrat"},
                         export_format="csv", ),
                 ],width={'size': 7, 'offset':0})
             ]),
@@ -151,7 +152,7 @@ app.layout = html.Div([
                         fixed_rows={'headers': True},
                         style_cell={'minWidth': '0px', 'maxWidth': '100px', 'width': '50px', 'fontSize': 11,
                                     'backgroundColor': '#1f2c56', 'color': 'white',
-                                    'textAlign': 'center', "font-family": "Montserrat"},
+                                    'textAlign': 'right', "font-family": "Montserrat"},
                         export_format="csv", ),
                 ],width={'size': 7, 'offset':0})
             ]),
@@ -203,4 +204,4 @@ def udpdate_data(n):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True,dev_tools_ui=False, host='0.0.0.0', port=8851)
+    app.run_server(debug=True,dev_tools_ui=False, host='0.0.0.0', port=8855)
