@@ -1,79 +1,90 @@
 date_at,mois,bucket,product_type,category,country,valeur
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Burn Stove,accessories,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,D Light Radio,accessories,Cameroun,19767.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV32,TV32,Cameroun,0.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV32,TV32,Mali,4197900.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV32,TV32,Senegal,16196915.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV32 NG,TV32,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV43,TV43,Cameroun,0.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV43,TV43,Mali,9739818.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Oolu SolarTV43,TV43,Senegal,15874878.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,Powerhub 3000,Powerhub,Burkina,2261400.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,WowSolar400,pico,Senegal,0.0
+2022-03-31 00:00:00,2022-03,0 a 3 mois,WowSolar60,pico,Mali,0.0
 2022-03-31 00:00:00,2022-03,3 a 6 mois,Burn Stove Xtra,accessories,Nigeria,0.0
 2022-03-31 00:00:00,2022-03,3 a 6 mois,D Light Radio,accessories,Cameroun,1917399.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,SHS+TV,Burkina,5236758.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,SHS+TV,Mali,3998000.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,SHS+TV,Niger,775816.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,SHS+TV,Senegal,15172210.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32 NG,SHS+TV,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Burkina,6427096.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Mali,256311.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,D Light Torche,accessories,Cameroun,1976700.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu Solar Fan V1 + adapter,Fans,Nigeria,6667332.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,TV32,Burkina,3685126.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,TV32,Mali,3998000.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,TV32,Niger,775816.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32,TV32,Senegal,20655875.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV32 NG,TV32,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Burkina,6179900.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Mali,1794177.0
 2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Niger,1235980.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Senegal,2342957.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,PICO D100,pico,Cameroun,961737.0
-2022-03-31 00:00:00,2022-03,3 a 6 mois,WowSolarTV19,pico,Senegal,0.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Nigeria,2496672.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Oolu SolarTV43,TV43,Senegal,13724945.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,PICO D100,pico,Cameroun,366376.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,Powerhub 3000,Powerhub,Burkina,599017.0
+2022-03-31 00:00:00,2022-03,3 a 6 mois,WowSolarTV19,TV19,Senegal,0.0
 2022-03-31 00:00:00,2022-03,6 a 9 mois,Burn Stove,accessories,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,6 a 9 mois,Oolu SolarTV32,SHS+TV,Senegal,5886484.0
+2022-03-31 00:00:00,2022-03,6 a 9 mois,Oolu SolarTV32,TV32,Senegal,5051724.0
 2022-03-31 00:00:00,2022-03,6 a 9 mois,Oolu SolarTV43,TV43,Senegal,2462750.0
-2022-03-31 00:00:00,2022-03,6 a 9 mois,WowSolar60,pico,Senegal,258172.0
+2022-03-31 00:00:00,2022-03,6 a 9 mois,WowSolar400,pico,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,6 a 9 mois,WowSolar60,pico,Senegal,210140.0
 2022-03-31 00:00:00,2022-03,9 a 12 mois,Burn Stove,accessories,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,Oolu SolarTV24 NG,SHS+TV,Senegal,0.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,Radio V1,pico,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,Radio V1,accessories,Nigeria,0.0
 2022-03-31 00:00:00,2022-03,9 a 12 mois,Sherpa Powerbank,accessories,Nigeria,0.0
 2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolar100 NG,pico,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolar60,pico,Senegal,3163980.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV22,pico,Mali,155465.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV22,pico,Senegal,815810.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV32,pico,Mali,2944980.0
-2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV32,pico,Senegal,266525.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Burn Stove,accessories,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,< 3 mois,D Light Radio,accessories,Cameroun,19767.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV32,SHS+TV,Mali,6396800.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV32,SHS+TV,Senegal,28284165.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV32 NG,SHS+TV,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV43,TV43,Mali,11277684.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV43,TV43,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Oolu SolarTV43,TV43,Senegal,29054022.0
-2022-03-31 00:00:00,2022-03,< 3 mois,Powerhub 3000,big SHS,Burkina,3425767.0
-2022-03-31 00:00:00,2022-03,< 3 mois,WowSolar400,pico,Senegal,0.0
-2022-03-31 00:00:00,2022-03,< 3 mois,WowSolar60,pico,Mali,0.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolar60,pico,Senegal,2715962.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV22,TV22,Mali,155465.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV22,TV22,Senegal,163162.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV32,TV32,Mali,2748648.0
+2022-03-31 00:00:00,2022-03,9 a 12 mois,WowSolarTV32,TV32,Senegal,266525.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Burn Stove,accessories,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,> 12 mois,ForeSolar Fan,Fans,Nigeria,109977.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Hairclipper V1,accessories,Burkina,32895.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Hairclipper V1,accessories,Mali,9148.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Hairclipper V1,accessories,Nigeria,0.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Hairclipper V1,accessories,Senegal,19660.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24,SHS+TV,Cameroun,540344.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24 NG,SHS+TV,Nigeria,392280.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24 NG,SHS+TV,Senegal,0.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV32,SHS+TV,Cameroun,278117.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV32 NG,SHS+TV,Nigeria,413412.0
-2022-03-31 00:00:00,2022-03,> 12 mois,PICO D100,pico,Cameroun,45800.0
+2022-03-31 00:00:00,2022-03,> 12 mois,L190 Portable light + phone charger,accessories,Nigeria,613953.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu Solar Fan V1,accessories,Burkina,1749000.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu Solar Fan V1,accessories,Mali,1145178.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu Solar Fan V1,accessories,Senegal,141532.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu Solar Fan V1 + adapter,Fans,Niger,334576.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu Solar Fan V1 + adapter,Fans,Nigeria,309294.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24,TV24,Cameroun,540344.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24 NG,TV24,Nigeria,261520.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV24 NG,TV24,Senegal,0.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV32,TV32,Cameroun,278117.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Oolu SolarTV32 NG,TV32,Nigeria,413412.0
+2022-03-31 00:00:00,2022-03,> 12 mois,PICO D100,pico,Cameroun,91600.0
 2022-03-31 00:00:00,2022-03,> 12 mois,PICO D100,pico,Senegal,45800.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Powerhub 1280 with panel ,big SHS,Nigeria,1506160.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Powerhub 500 with panel,big SHS,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,pico,Burkina,19071.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,pico,Mali,8749.0
-2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,pico,Senegal,22527.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Powerhub 1280 with panel ,Powerhub,Nigeria,1506160.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Powerhub 500 with panel,Powerhub,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,accessories,Burkina,19071.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,accessories,Mali,8749.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Radio V1,accessories,Senegal,22527.0
+2022-03-31 00:00:00,2022-03,> 12 mois,Sherpa Powerbank,accessories,Nigeria,0.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Sun King Home 60 Easy Buy,pico,Mali,37707.0
 2022-03-31 00:00:00,2022-03,> 12 mois,Sun King Home 60 Easy Buy,pico,Senegal,1998471.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar100 NG,pico,Nigeria,226487.23
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar100 NG,pico,Nigeria,199312.0
 2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar400,pico,Senegal,0.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Burkina,3058510.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Mali,22158634.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Niger,8897229.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Senegal,313256.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,pico,Burkina,146079.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,pico,Mali,295478.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,pico,Niger,438237.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,pico,Senegal,145874.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19 NG,pico,Nigeria,671655.3
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,TV22,Mali,155465.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,pico,Burkina,516109.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,pico,Mali,5026840.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,pico,Senegal,1190989.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,pico,Burkina,1013145.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,pico,Mali,3981439.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,pico,Nigeria,0.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,pico,Senegal,231771.0
-2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32 NG,pico,Nigeria,458595.51
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Burkina,2783596.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Mali,21514314.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Niger,8794962.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolar60,pico,Senegal,476418.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,TV19,Burkina,146079.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,TV19,Mali,295478.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,TV19,Niger,438237.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19,TV19,Senegal,145874.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV19 NG,TV19,Nigeria,671658.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,TV22,Burkina,516109.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,TV22,Mali,5182305.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV22,TV22,Senegal,1843637.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,TV32,Burkina,810516.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,TV32,Mali,3981439.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,TV32,Nigeria,0.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32,TV32,Senegal,231771.0
+2022-03-31 00:00:00,2022-03,> 12 mois,WowSolarTV32 NG,TV32,Nigeria,458595.0
