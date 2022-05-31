@@ -45,6 +45,7 @@ table_header_style = {
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 app.layout = html.Div([
+            html.Div(id='refresh2',children=''),
             dcc.Interval(
                             id='interval-component',
                             interval=1*43200000,
@@ -188,7 +189,7 @@ def udpdate_data(c):
         return table_value.to_dict('records'),system_value.to_dict('records'),age_value.to_dict('records')
 
 @app.callback(
-    Output('refresh','children'),
+    Output('refresh2','children'),
     Input('interval-component','n_intervals')
 )
 def udpdate_data(n):
